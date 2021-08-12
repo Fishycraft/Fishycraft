@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Youtube, Discord
 - 📫 How to reach me Fishycraft#0001
 
-<a href="https://twitter.com/Fishycrafted?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Fishycrafted</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a href="https://twitter.com/Fishycrafted?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Fishycrafted</a>
 <!---
 run Fishycraft.exe
 
